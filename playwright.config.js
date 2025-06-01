@@ -1,5 +1,8 @@
 // @ts-check
+import * as dotenv from 'dotenv';
 import { defineConfig, devices } from '@playwright/test';
+
+dotenv.config();
 
 /**
  * Read environment variables from file.
@@ -21,7 +24,7 @@ export default defineConfig({
   /* Retry on CI only */
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : undefined,
+  workers: process.env.CI ? 1 : Number(process.env.WORKERS),
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
@@ -37,7 +40,9 @@ export default defineConfig({
   projects: [
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      use: { ...devices['Desktop Chrome'] ,
+      headless: false,
+    },
     },
 
     {
