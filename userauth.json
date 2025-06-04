@@ -1,0 +1,221 @@
+{
+  "cookies": [
+    {
+      "name": "_cfuvid",
+      "value": "_JnAhTz9BbS9rmRAbc8UpwhR915x6onaSq0U1Uobuk0-1749064095478-0.0.1.1-604800000",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "hTPyk.MTBV0sdOG3vBIvsjG1sXiV29Q9NQktPy8zZAs-1749064095-1.0.1.1-fb_GUfWR1y5vFFhtMYJ4jW_qn69Z9iXZe9K8sdOOzh2h81HFNyX3CmTApFXFCyJLWG7l_G3DUiSgrikuY9D0Plho9Z4WSUD7VBbrOmrKnks",
+      "domain": ".surveysparrow.com",
+      "path": "/",
+      "expires": 1749065895.603086,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Dsa.e.OBBgytI5aQ9bfhs5Ys98LlfsZpFgOLzdgi3oo-1749064095-1.0.1.1-M5L6v2ovN3SMvpOl0SJKCIZDM2dx93bghwNHfv1YJP9RcxfdnWD04PDUxnBvue8lim1KSU_jheYKDH2JprvhZ1AQoVKRQtz1y1D9x0TlsJE",
+      "domain": ".hs-scripts.com",
+      "path": "/",
+      "expires": 1749065895.684617,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "FHJ8n6qoQaK_zSVIqK_1pPXX_dQCKr_J.5kSyorTnX4-1749064095-1.0.1.1-oBuAfZDA.GV1dnEyhgN7E6aAob7blRHUTcQVldqRix41tICknndGbsuhRENFLBdpUIx2ES4xIBHY4B3F39LMKawauc.4GHO7k34a6Gow5O8",
+      "domain": ".hs-analytics.net",
+      "path": "/",
+      "expires": 1749065895.774075,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "qV7Zlv9HZQ9CnvjJqsGhBnw7tAHoUm8VevnHUSwE7f4-1749064095-1.0.1.1-.eSe_sQOph1zouFDRBsyWJ8Uzo6O2asgspkwu.0C564Xz5kFi_SVk9aAqnFsSaaBREumKqiI4wfida_wdQ_ij6W6ap3E1xicEwVwSPZH26I",
+      "domain": ".hs-banner.com",
+      "path": "/",
+      "expires": 1749065895.811539,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "fAlYp0YI5rRCrqxTq9R5EkZaZ.nHCsYOQuP_Ak15MA0-1749064095-1.0.1.1-EN8VviT8kw45yVxsV5.rQConj8tKsZyLaVMO117GV2VaVmscf9vHBAV0oVUAiXZrc8fC1d6VTkrbStf4km8TbA9bDsLaLRQmK5Dlglr2l70",
+      "domain": ".hsadspixel.net",
+      "path": "/",
+      "expires": 1749065895.86129,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__hstc",
+      "value": "205004431.0741609a01f3d17f8affaa3134096b4b.1749064100974.1749064100974.1749064100974.1",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1764616100,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "0741609a01f3d17f8affaa3134096b4b",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1764616100,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "205004431.1.1749064100974",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1749065900,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.349740650.1749064100.782762612.1749064101.1749064101",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1756840100,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUnR1Sm77T7sKs-4D2FAfRoBsfjZVbf-Tcd7cITzS_qEPZKcPga4hJUh_hEi",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1783624101.227011,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "aqZZr_x0O4UQXBffd3ZpJ5l4Fe8lFfeKSIYmI6xD9rU-1749064101-1.0.1.1-Jn6xCmaUK.9hTq0yzffJYrAgBhmp7RVRDxIbZQ9CjW0ir1sFouqpRz9JhblB0qyZw7F1dd4b2kw7uuHZ17i3P5.lP.6.99OpEWEAbUNRLLo",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": 1749065901.268156,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "vknRJ9Jq6x4SQ8wJWhIz6qS7Mw_fkK3Y_uB3L1Hi4CE-1749064101265-0.0.1.1-604800000",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "connect.sid",
+      "value": "s%3A5eNulgrK4mxo6yQ-PmG97FljJi4ssnqm.BYk8XQ5578ValFOUVXhz5ck5WlCkEIhace4795foLBQ",
+      "domain": "mahendraprod1.thrivesparrow.com",
+      "path": "/",
+      "expires": 1749150501.627499,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mahendraprod1.thrivesparrow.com",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en-US"
+        },
+        {
+          "name": "zsession-blocked-info",
+          "value": "{\"isBlocked\":true,\"apiKey\":\"3e538e91\",\"blockedEndTime\":0}"
+        },
+        {
+          "name": "zenduser-info-temp",
+          "value": "{\"euId\":0,\"euZName\":\"\",\"userType\":0,\"isBlocked\":false,\"zExternalUserInfo\":{},\"zAnonymsUserInfo\":{\"zId\":\"a156b08f-a00c-4a32-bf1c-0d576f06cf44-1749064095\",\"euId\":0,\"euZName\":\"\"}}"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"2ccbedfb329646ecab2fa87c84450262\",\"expiry\":1749064999530,\"tabs\":{\"count\":1,\"expiry\":0}}"
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"f5780ac6d3318602\",\"inactiveAt\":1749065901080,\"expiresAt\":1749078501012,\"updatedAt\":1749064101080,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":0,\"traceHarvestStarted\":false,\"custom\":{}}"
+        },
+        {
+          "name": "is-api-key-valid",
+          "value": "true"
+        },
+        {
+          "name": "last-activity-time",
+          "value": "1749064095969"
+        },
+        {
+          "name": "session-data",
+          "value": "{\"sessionId\":\"93f3adfa-97a5-4550-9475-1c1fb91e5113-1749064095\",\"dSession\":\"0:9fb95767:de43-4664-83f6-e4a03b93f780-1749064095\",\"isNewSession\":true,\"sdkKey\":\"3e538e91\"}"
+        },
+        {
+          "name": "zenduser-last-activity-time",
+          "value": "1749064095969"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"creationTimeMs\":1749064099709},\"expires\":1756840099709}}"
+        },
+        {
+          "name": "ss-spotcheck-user",
+          "value": "d2362803-d203-4b38-8748-48d74635aac8"
+        },
+        {
+          "name": "zenduser-info",
+          "value": "{\"euId\":0,\"euZName\":\"\",\"userType\":0,\"isBlocked\":false,\"zExternalUserInfo\":{},\"zAnonymsUserInfo\":{\"zId\":\"a156b08f-a00c-4a32-bf1c-0d576f06cf44-1749064095\",\"euId\":0,\"euZName\":\"\"}}"
+        },
+        {
+          "name": "ztotal-data-sent",
+          "value": "0"
+        },
+        {
+          "name": "pack",
+          "value": "true"
+        },
+        {
+          "name": "zId",
+          "value": "a156b08f-a00c-4a32-bf1c-0d576f06cf44-1749064095"
+        }
+      ]
+    }
+  ]
+}
