@@ -1,16 +1,19 @@
 // global-setup.js
 import { chromium } from '@playwright/test';
-import fs from 'fs';
+import Pwactions from './PlaywrightActions/Pwactions';
+import Login from './Pages/login-page.spec';
+import CommonFunctions from './common-functions/common-functions.spec';
 
 export default async () => {
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({ headless: false });
   const context = await browser.newContext();
   const page = await context.newPage();
+  const pwactions = new Pwactions(page);
+  const login = new Login(page);
+  const commonFunctions = new CommonFunctions(page);
 
-  await page.goto('https://mahendraprod1.thrivesparrow.com/login');
-  await page.fill('//input[@type="email"]', 'mahendra.malleboina+prod1@surveysparrow.com');
-  await page.fill("//input[@name='password']", '12345678');
-  await page.click("//button[normalize-space()='Login']");
+  await commonFunctions.navigateToUrl('https://mahendraprod1.thrivesparrow.com/login');
+  await login.login('mahendra.malleboina+prod1@surveysparrow.com', '12345678');
  await page.waitForTimeout(3000);
 
   // Save auth state

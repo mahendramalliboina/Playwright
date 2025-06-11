@@ -3,16 +3,17 @@
 // It checks if the user remains logged in by navigating to an authenticated page
 // and asserting the presence of UI elements only visible after login.
 
-import { test, expect } from '@playwright/test';
+//import { test } from '../Fixtures/custom-fixture';
+import {test, expect} from '@playwright/test'
 
-test('catching session', async ({ page}) => {
-  await page.goto('https://mahendraprod1.thrivesparrow.com/login');
+test.only('catching session', async ({ page}) => {
+  await page.goto('https://mahendraprod1.thjkjkrivesparrow.com/login');
   expect(await page.locator("//a[normalize-space()='Overview']")).toBeVisible();
   await page.waitForTimeout(3000);
 
 });
 
-test('verifying if session captur is working or not', async ({ page }) => {
+test.only('verifying if session captur is working or not', async ({ page }) => {
   await page.goto('https://mahendraprod1.thrivesparrow.com/configure/surveys');
   expect(await page.locator("//a[normalize-space()='Engage']")).toBeVisible();
   await page.waitForTimeout(3000);

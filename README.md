@@ -36,4 +36,7 @@ WORKERS=3
 ->Helps in managing config, secrets, or dynamic test settings.
 ->You must import it where needed (like in playwright.config.ts):
 
+//command to install playwright allure
+->npm install -D allure-playwright
+
 
