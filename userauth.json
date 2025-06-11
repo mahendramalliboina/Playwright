@@ -1,0 +1,221 @@
+{
+  "cookies": [
+    {
+      "name": "_cfuvid",
+      "value": "g_Nzl7E2XM_FFRl4dpsD47RwRGNw30Fl4yJSjxClJ4E-1749656976449-0.0.1.1-604800000",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "dJ1BY6l0ID7OvVbGO06joFiyVV8Z.csYVBRfKhtiT3I-1749656976-1.0.1.1-WMJ4bsBZYBftavpKHi_5C53KbcHnj7cn11iOXQXLHwAk138XyVYXJE0yFf8pahuZYL3zGtv2ZoCvMfhxKLJnOsLRcbeKcGS6ijfQS3KSVh8",
+      "domain": ".surveysparrow.com",
+      "path": "/",
+      "expires": 1749658776.60741,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "edlHnBOqJPkfbnROjEUyheSXO1MqWj5n_kv__i8akwM-1749656977-1.0.1.1-aJ_IwOSJingwMB3BLjChTOgQwhzIrDbbjj6dzO0J0yxAZ0FP1Ygt.xf.Wlx_nu7LTlb1Cifm_yKDDAXKGju8pQZn8kQK.4POIxdr5qbWR9E",
+      "domain": ".hs-scripts.com",
+      "path": "/",
+      "expires": 1749658777.237145,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "oDpqV_aIi2wzTMjOb0yclJLc_95RdL0YtzKoCh9e_Y0-1749656977-1.0.1.1-aNogc80eyCROfqRI0lZKoGgqgxd76XyaWVnAxUlhQh7FUBrQmlhkWJHVgGtoLM.6eXIrGAQkyJyOIbsUHPTrBfyqgga7s_4AFOYOW4HHsRQ",
+      "domain": ".hs-analytics.net",
+      "path": "/",
+      "expires": 1749658777.932654,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "pv6HmPU.PP7chstDdbmoAa72hTvITQhA1TVX.301OKI-1749656978-1.0.1.1-21SiVWzO0454BGKs_NKakW5oDBMVV_v.K_jonNZAg3mT7Yd2Qjlsokh4YQcSdU28ea03U3vTysZDAVBKTHeNa4bm30qWO5X.K9My3S.pg9U",
+      "domain": ".hsadspixel.net",
+      "path": "/",
+      "expires": 1749658777.936106,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "lZNNR2Ao0RqaOSftnXDKe3ZQPYPqNUcW5ECEM_5KSfw-1749656978-1.0.1.1-cNyxp3UFF.OGXrhH2GUx9gwe3LRQmMhsP8eh8JyzNk2_lo3VrT3bczFl20IzoqgXMZxgSo3Wo5sTpkp.pI3AdFCJcuFBwGotS.zSbREX5yk",
+      "domain": ".hs-banner.com",
+      "path": "/",
+      "expires": 1749658777.936574,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__hstc",
+      "value": "205004431.9167bb8977ee0e20472aebef38ef1d01.1749656989511.1749656989511.1749656989511.1",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1765208990,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "9167bb8977ee0e20472aebef38ef1d01",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1765208990,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "205004431.2.1749656989512",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1749658790,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmjdzkTTBICICGbiVu0VkUogrw91xo18RHGbZKOKZ9LOf79fuvrArB9SPP4",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1784216990.888648,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "qB4IW_ctnj_y5bw9pZqcQAmYsF2ZXEphIwTATaCbuQY-1749656991-1.0.1.1-R8DfnLYbM.NuEABYQjRt.mM0ojb6xaF.4fcAoqPeqRq4pfNkVyWcV2i5hshfLpbDSTdqeM99TMWOrFtSuH7sSg2dRplrqurvG9Vl76GvRo0",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": 1749658790.914268,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "SJLYElBwUaIct8DDi.j0VEOBvf.ukCu.njUWkHOjk6g-1749656991048-0.0.1.1-604800000",
+      "domain": ".hubspot.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1062385100.1749656986.478431833.1749656991.1749656991",
+      "domain": ".thrivesparrow.com",
+      "path": "/",
+      "expires": 1757432986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "connect.sid",
+      "value": "s%3AqYTz6Ap5gG92qNy-U47MfX5P4lKSHQLN.WuFGTRIF4x2DnSL3bKuI8FuPhtvAeofZthC%2F2y9%2FL9Y",
+      "domain": "mahendraprod1.thrivesparrow.com",
+      "path": "/",
+      "expires": 1749743391.807125,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mahendraprod1.thrivesparrow.com",
+      "localStorage": [
+        {
+          "name": "zsession-blocked-info",
+          "value": "{\"isBlocked\":true,\"apiKey\":\"3e538e91\",\"blockedEndTime\":0}"
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"68cb8f117438b3ad\",\"inactiveAt\":1749658791062,\"expiresAt\":1749671390690,\"updatedAt\":1749656991737,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":0,\"traceHarvestStarted\":true,\"custom\":{}}"
+        },
+        {
+          "name": "zenduser-last-activity-time",
+          "value": "1749656976877"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"creationTimeMs\":1749656986191},\"expires\":1757432986191}}"
+        },
+        {
+          "name": "pack",
+          "value": "true"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en-US"
+        },
+        {
+          "name": "zenduser-info-temp",
+          "value": "{\"euId\":0,\"euZName\":\"\",\"userType\":0,\"isBlocked\":false,\"zExternalUserInfo\":{},\"zAnonymsUserInfo\":{\"zId\":\"014a498d-344a-4c89-81ed-2136b2fb82a8-1749656976\",\"euId\":0,\"euZName\":\"\"}}"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"83a55910c5bb4a2e95235c76057fb77d\",\"expiry\":1749657890374,\"tabs\":{\"count\":2,\"expiry\":0}}"
+        },
+        {
+          "name": "is-api-key-valid",
+          "value": "true"
+        },
+        {
+          "name": "last-activity-time",
+          "value": "1749656976877"
+        },
+        {
+          "name": "session-data",
+          "value": "{\"sessionId\":\"568f764e-7325-485f-848a-c2ff001335ab-1749656976\",\"dSession\":\"0:ed05bca5:f306-4598-9818-c1cd17837e2e-1749656976\",\"isNewSession\":true,\"sdkKey\":\"3e538e91\"}"
+        },
+        {
+          "name": "ss-spotcheck-user",
+          "value": "6e29fcb4-e9fd-468a-bcd1-cc0421056db6"
+        },
+        {
+          "name": "zenduser-info",
+          "value": "{\"euId\":0,\"euZName\":\"\",\"userType\":0,\"isBlocked\":false,\"zExternalUserInfo\":{},\"zAnonymsUserInfo\":{\"zId\":\"014a498d-344a-4c89-81ed-2136b2fb82a8-1749656976\",\"euId\":0,\"euZName\":\"\"}}"
+        },
+        {
+          "name": "ztotal-data-sent",
+          "value": "0"
+        },
+        {
+          "name": "zId",
+          "value": "014a498d-344a-4c89-81ed-2136b2fb82a8-1749656976"
+        }
+      ]
+    }
+  ]
+}
